@@ -1,5 +1,3 @@
-# David Pham 35764326, Sheila Truong 53588737
-
 import re
 from bs4 import BeautifulSoup
 import os
